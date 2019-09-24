@@ -20,10 +20,13 @@ Some of my extensions access third party APIs and report back the results. For e
 
 ## Changes to the Privacy Policy
 
-If there are substantive[^1] changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
+If there are substantive<sup>1</sup> changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
 
 ## Feedback
 
 If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:david.heidelberger@gmail.com) or [file an issue](https://github.com/dheidelberger/extension-privacy-policy/issues/new) to this repository.
 
-[^1]: When I say "substantive," I mean that I won't push out app updates for minor changes like fixing a typo.
+***
+
+#### Notes:
+1 - When I say "substantive," I mean that I won't push out app updates for minor changes like fixing a typo.
